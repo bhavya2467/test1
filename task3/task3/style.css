@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+input, textarea {
+    width: 80%;
+    margin: 10px;
+}
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
