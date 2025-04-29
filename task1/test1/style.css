@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #ddd;
+}
+
+.progress {
+    height: 10px;
+    background-color: #4CAF50;
+}
+
+.project img {
+    width: 200px;
+    height: auto;
+}
+
+form input, form textarea, form button {
+    width: 80%;
+    padding: 10px;
+    margin: 5px;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
